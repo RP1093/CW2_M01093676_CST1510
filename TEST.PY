@@ -1,1 +1,1 @@
-print("Hello World! Version 2")
+print("Hello World!")
